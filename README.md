@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abhyashkumar2607
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning html,css.c
 - 📫 How to reach me abhyashkumar2607@gmail.com
 - 😄 Pronouns: he/him
 - 
